@@ -12,7 +12,7 @@ public class TopicService {
 			new Topic ("spring","Spring Framework","Spring Framework Description"),
 			new Topic ("java","Core Java","Core Java Description"),
 			new Topic ("javascript","Javascript","Javascript Description")
-			);
+			);   //topics
 	
 	public List<Topic> getAllTopics(){
 		return topics;
